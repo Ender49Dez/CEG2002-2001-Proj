@@ -30,7 +30,7 @@ Notes:
 - Keep the fan securely mounted when recalibrating.
 - Document actual authorship and AI assistance in the submission.
 -------------------------------------------------- */
-
+//etesatatadfa
 #include <msp430.h>
 #include <stdint.h>
 
